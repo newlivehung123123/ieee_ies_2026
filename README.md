@@ -154,7 +154,7 @@ python src/analysis/pca.py \
 | 📚 Data sources | 11 curated international sources |
 
 **Citation:**
-> Hung, J. (2026). *Global AI Dataset v2 (GAID v2)*. Harvard Dataverse. https://doi.org/[doi]
+> Hung, J. (2026). *Global AI Dataset v2 (GAID v2)*. Harvard Dataverse. [https://doi.org/[doi]](https://doi.org/10.7910/DVN/PUMGYU)
 
 ### 🤖 Models Evaluated
 
