@@ -1,0 +1,59 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# .gitignore — GAID v2 Geographic Bias Benchmark
+# ─────────────────────────────────────────────────────────────────────────────
+
+# API keys and secrets — NEVER commit these
+.env
+.env.*
+secrets.py
+api_keys.txt
+*_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Large result files — host on Zenodo/Harvard Dataverse instead
+# Uncomment these lines if your result CSVs exceed GitHub's 100 MB limit:
+# results/classified_results.csv
+# results/results_*.csv
+
+# Logs
+*.log
+logs/
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/

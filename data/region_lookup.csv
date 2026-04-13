@@ -1,0 +1,217 @@
+country,iso3,un_region,global_north_south
+Afghanistan,AFG,Asia,Global South
+Albania,ALB,Europe,Global South
+Algeria,DZA,Africa,Global South
+Andorra,AND,Europe,Global North
+Angola,AGO,Africa,Global South
+Antigua and Barbuda,ATG,Americas,Global South
+Argentina,ARG,Americas,Global South
+Armenia,ARM,Asia,Global South
+Australia,AUS,Oceania,Global North
+Austria,AUT,Europe,Global North
+Azerbaijan,AZE,Asia,Global South
+Bahamas,BHS,Americas,Global South
+Bahrain,BHR,Asia,Global South
+Bangladesh,BGD,Asia,Global South
+Barbados,BRB,Americas,Global South
+Belarus,BLR,Europe,Global South
+Belgium,BEL,Europe,Global North
+Belize,BLZ,Americas,Global South
+Benin,BEN,Africa,Global South
+Bermuda,BMU,Americas,Global North
+Bhutan,BTN,Asia,Global South
+Bolivia,BOL,Americas,Global South
+Bosnia And Herzegovina,BIH,Europe,Global South
+Botswana,BWA,Africa,Global South
+Brazil,BRA,Americas,Global South
+Brunei Darussalam,BRN,Asia,Global South
+Bulgaria,BGR,Europe,Global North
+Burkina Faso,BFA,Africa,Global South
+Burundi,BDI,Africa,Global South
+Cabo Verde,CPV,Africa,Global South
+Cambodia,KHM,Asia,Global South
+Cameroon,CMR,Africa,Global South
+Canada,CAN,Americas,Global North
+Cayman Islands,CYM,Americas,Global South
+Central African Republic,CAF,Africa,Global South
+Chad,TCD,Africa,Global South
+Chile,CHL,Americas,Global South
+China,CHN,Asia,Global South
+Cocos (Keeling) Islands,CCK,Oceania,Global South
+Colombia,COL,Americas,Global South
+Comoros,COM,Africa,Global South
+Congo Republic,COG,Africa,Global South
+Costa Rica,CRI,Americas,Global South
+Cote D'Ivoire,CIV,Africa,Global South
+Croatia,HRV,Europe,Global North
+Cuba,CUB,Americas,Global South
+Curacao,CUW,Americas,Global South
+Cyprus,CYP,Europe,Global North
+Czechia,CZE,Europe,Global North
+Denmark,DNK,Europe,Global North
+Djibouti,DJI,Africa,Global South
+Dominica,DMA,Americas,Global South
+Dominican Republic,DOM,Americas,Global South
+Dr Congo,COD,Africa,Global South
+Ecuador,ECU,Americas,Global South
+Egypt,EGY,Africa,Global South
+El Salvador,SLV,Americas,Global South
+Equatorial Guinea,GNQ,Africa,Global South
+Eritrea,ERI,Africa,Global South
+Estonia,EST,Europe,Global North
+Eswatini,SWZ,Africa,Global South
+Ethiopia,ETH,Africa,Global South
+Faroe Islands,FRO,Europe,Global North
+Fiji,FJI,Oceania,Global South
+Finland,FIN,Europe,Global North
+France,FRA,Europe,Global North
+French Southern Territories,ATF,Oceania,Global South
+Gabon,GAB,Africa,Global South
+Gambia,GMB,Africa,Global South
+Georgia,GEO,Asia,Global South
+Germany,DEU,Europe,Global North
+Ghana,GHA,Africa,Global South
+Gibraltar,GIB,Europe,Global North
+Greece,GRC,Europe,Global North
+Greenland,GRL,Europe,Global North
+Grenada,GRD,Americas,Global South
+Guadeloupe,GLP,Americas,Global South
+Guam,GUM,Americas,Global South
+Guatemala,GTM,Americas,Global South
+Guinea,GIN,Africa,Global South
+Guinea-Bissau,GNB,Africa,Global South
+Guyana,GUY,Americas,Global South
+Haiti,HTI,Americas,Global South
+Honduras,HND,Americas,Global South
+Hong Kong,HKG,Asia,Global North
+Hungary,HUN,Europe,Global North
+Iceland,ISL,Europe,Global North
+India,IND,Asia,Global South
+Indonesia,IDN,Asia,Global South
+Iran,IRN,Asia,Global South
+Iraq,IRQ,Asia,Global South
+Ireland,IRL,Europe,Global North
+Isle Of Man,IMN,Europe,Global North
+Israel,ISR,Asia,Global North
+Italy,ITA,Europe,Global North
+Jamaica,JAM,Americas,Global South
+Japan,JPN,Asia,Global North
+Jordan,JOR,Asia,Global South
+Kazakhstan,KAZ,Asia,Global South
+Kenya,KEN,Africa,Global South
+Kiribati,KIR,Oceania,Global South
+Kosovo,KSV,Europe,Global South
+Kuwait,KWT,Asia,Global South
+Kyrgyzstan,KGZ,Asia,Global South
+Laos,LAO,Asia,Global South
+Latvia,LVA,Europe,Global North
+Lebanon,LBN,Asia,Global South
+Lesotho,LSO,Africa,Global South
+Liberia,LBR,Africa,Global South
+Libya,LBY,Africa,Global South
+Liechtenstein,LIE,Europe,Global North
+Lithuania,LTU,Europe,Global North
+Luxembourg,LUX,Europe,Global North
+Macau,MAC,Asia,Global North
+Madagascar,MDG,Africa,Global South
+Malawi,MWI,Africa,Global South
+Malaysia,MYS,Asia,Global South
+Maldives,MDV,Asia,Global South
+Mali,MLI,Africa,Global South
+Malta,MLT,Europe,Global North
+Marshall Islands,MHL,Oceania,Global South
+Martinique,MTQ,Americas,Global South
+Mauritania,MRT,Africa,Global South
+Mauritius,MUS,Africa,Global South
+Mexico,MEX,Americas,Global South
+Micronesia,FSM,Oceania,Global South
+Moldova,MDA,Europe,Global South
+Monaco,MCO,Europe,Global North
+Mongolia,MNG,Asia,Global South
+Montenegro,MNE,Europe,Global South
+Morocco,MAR,Africa,Global South
+Mozambique,MOZ,Africa,Global South
+Myanmar,MMR,Asia,Global South
+Namibia,NAM,Africa,Global South
+Nauru,NRU,Oceania,Global South
+Nepal,NPL,Asia,Global South
+Netherlands,NLD,Europe,Global North
+New Caledonia,NCL,Oceania,Global South
+New Zealand,NZL,Oceania,Global North
+Nicaragua,NIC,Americas,Global South
+Niger,NER,Africa,Global South
+Nigeria,NGA,Africa,Global South
+North Korea,PRK,Asia,Global South
+North Macedonia,MKD,Europe,Global South
+Northern Mariana Islands,MNP,Americas,Global South
+Norway,NOR,Europe,Global North
+Oman,OMN,Asia,Global South
+Pakistan,PAK,Asia,Global South
+Palau,PLW,Oceania,Global South
+Palestine,PSE,Asia,Global South
+Panama,PAN,Americas,Global South
+Papua New Guinea,PNG,Oceania,Global South
+Paraguay,PRY,Americas,Global South
+Peru,PER,Americas,Global South
+Philippines,PHL,Asia,Global South
+Poland,POL,Europe,Global North
+Portugal,PRT,Europe,Global North
+Puerto Rico,PRI,Americas,Global South
+Qatar,QAT,Asia,Global South
+Reunion,REU,Africa,Global South
+Romania,ROU,Europe,Global North
+Russia,RUS,Europe,Global South
+Rwanda,RWA,Africa,Global South
+Samoa,WSM,Oceania,Global South
+San Marino,SMR,Europe,Global North
+Saudi Arabia,SAU,Asia,Global South
+Senegal,SEN,Africa,Global South
+Serbia,SRB,Europe,Global South
+Seychelles,SYC,Africa,Global South
+Sierra Leone,SLE,Africa,Global South
+Singapore,SGP,Asia,Global North
+Slovakia,SVK,Europe,Global North
+Slovenia,SVN,Europe,Global North
+Solomon Islands,SLB,Oceania,Global South
+Somalia,SOM,Africa,Global South
+South Africa,ZAF,Africa,Global South
+South Korea,KOR,Asia,Global North
+South Sudan,SSD,Africa,Global South
+Spain,ESP,Europe,Global North
+Sri Lanka,LKA,Asia,Global South
+St. Kitts And Nevis,KNA,Americas,Global South
+St. Lucia,LCA,Americas,Global South
+St. Vincent And The Grenadines,VCT,Americas,Global South
+Sudan,SDN,Africa,Global South
+Suriname,SUR,Americas,Global South
+Sweden,SWE,Europe,Global North
+Switzerland,CHE,Europe,Global North
+Syria,SYR,Asia,Global South
+São Tomé and Principe,STP,Africa,Global South
+Taiwan,TWN,Asia,Global North
+Tajikistan,TJK,Asia,Global South
+Tanzania,TZA,Africa,Global South
+Thailand,THA,Asia,Global South
+Timor-Leste,TLS,Asia,Global South
+Togo,TGO,Africa,Global South
+Tonga,TON,Oceania,Global South
+Trinidad And Tobago,TTO,Americas,Global South
+Tunisia,TUN,Africa,Global South
+Turkey,TUR,Asia,Global South
+Turkmenistan,TKM,Asia,Global South
+Tuvalu,TUV,Oceania,Global South
+Uganda,UGA,Africa,Global South
+Ukraine,UKR,Europe,Global South
+United Arab Emirates,ARE,Asia,Global South
+United Kingdom,GBR,Europe,Global North
+United States,USA,Americas,Global North
+United States Minor Outlying Islands,UMI,Americas,Global South
+Uruguay,URY,Americas,Global South
+Uzbekistan,UZB,Asia,Global South
+Vanuatu,VUT,Oceania,Global South
+Vatican,VAT,Europe,Global North
+Venezuela,VEN,Americas,Global South
+Vietnam,VNM,Asia,Global South
+Yemen,YEM,Asia,Global South
+Zambia,ZMB,Africa,Global South
+Zimbabwe,ZWE,Africa,Global South
